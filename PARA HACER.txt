@@ -11,5 +11,6 @@
 
 6- crear maestro jabat
 
+7- usar los mismos numeros de etiqueta
 
 
