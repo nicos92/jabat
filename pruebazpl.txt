@@ -1,0 +1,7 @@
+
+// envio de fecha y hora para visualizar en la pantalla de la impresora
+^XA
+^ST08,30,2024,11,40,0,P^FS
+^XZ
+
+

@@ -3,11 +3,11 @@
 ^POI
 ^LH85,00
 ^FO350,593^A0I,25,20^FD112-HE-CogoteTrozosFS^FS//ETIQUETA
-^FT535,520^XGHE-CogoteTrozos,1,1^FS        // img nombre hebreo
+^FT535,490^XGHE-CogoteTrozos,1,1^FS        // img nombre hebreo
 
 ^FO585,060^A0B,33,45^FN827^FS   //NOMBRE  ESP 827
 
-^FT540,580^A0B,50,70^FH\^FD10B^FS   //
+^FT570,600^A0B,50,50^FH\^FD10B^FS   //
 
 
 ^FT573,615^XGhe-logo1,1,1^FS              // LOGO
